@@ -114,6 +114,9 @@ React를 사용한 '여기어때' 웹사이트를 모티브로 한 프로젝트
 신지원 : https://velog.io/@jxxwon<br>
 황수민 : https://velog.io/@z132305
 
+## 프로젝트 전체 구현 영상
+https://www.youtube.com/watch?v=HhGPW_Zb-p4
+
 ## ✔︎ References
 이 프로젝트는 여기어때를 참고하여 학습용으로 작업 되었습니다.
 이 프로젝트에서 사용된 모든 이미지는 Unsplash 에서 가져왔습니다.
